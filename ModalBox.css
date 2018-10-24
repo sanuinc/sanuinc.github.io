@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h2.tieude {
+    background-color: #e66b6b;
+    text-align: center;
+    padding: 0px;
+    font-size: 40px;
+}
+
+
+.modalbox {
+    width: 353px;
+    background: gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    visibility: hidden;
+}
+
+.thanhgiua {
+    background-color: gray;
+    width: 2px;
+    height: 80%;
+    margin-top: 68px;
+}
+
+.btn.btn-danger {
+    width: 183px;
+    height: 50px;
+    line-height: 50px;
+ 
+}
+
+.benphait {
+    font-size: 32px;
+    font-weight: lighter;
+    width: 428px;
+    text-align: end;
+    padding-top: 59px;
+}
+
+.bentrai {
+    font-size: 32px;
+    font-weight: lighter;
+    width: 428px;
+    text-align: end;
+    padding-top: 59px;
+    margin-left: 50px;
+}
+
+span {
+    display: block;
+    font-size: 25px;
+    color: #ffffffa1;
+}
+
+h2 {
+    padding-top: 46px;
+    font-size: 44px;
+    font-weight: 100;
+}
+
+
+
+h2 {}
+
+.phantren {
+    width: 100%;
+    height: 195px;
+    background-color: #D94839;
+    margin-top: 25px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #e74c3ceb;
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: #fff;
+}
+.hienra{
+   visibility: visible;
+   z-index: 1;
+}
